@@ -20,7 +20,3 @@ O objetivo principal deste projeto é facilitar o controle e a organização dos
 3. Compile o código-fonte utilizando um ambiente de desenvolvimento Java ou o comando `javac` em seu terminal.
 4. Execute o programa utilizando o comando `java` seguido do nome da classe principal.
 5. Siga as instruções exibidas no menu para utilizar as diferentes funcionalidades do programa.
-
-## Contribuição
-
-Contribuições são bem-vindas! Caso você identifique melhorias, correções de bugs ou novas funcionalidades, fique à vontade para abrir uma issue ou enviar um pull request.
